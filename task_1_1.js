@@ -3,6 +3,6 @@
 
 "use strict";
 
-Tc = 36.6;
-Tf = (9 / 5) * Tc + 32;
+var Tc = 36.6;
+var Tf = (9 / 5) * Tc + 32;
 alert(Tf);
